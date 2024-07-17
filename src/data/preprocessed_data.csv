@@ -1,0 +1,511 @@
+aktifitas,tanggal,kategori,catatan,isPengeluaran,jumlah
+Galdan,2023-10-03,['Jajan'],Galdan punya Mawaddah,True,20000
+Uang Bulanan,2023-10-02,['Gajian'],"Uang kiriman 1.000.000, tarik di atm 800.000 tapi yang keluar cuma 700.000",False,700000
+Galon & Mie,2023-10-03,['Makan'],,True,13000
+Nasi kuning,2023-10-03,['Makan'],Nasi kuning ayam krispi,True,10000
+Uang bulan lalu,2023-10-02,['Gajian'],"Uang sisa bulan lalu dari kak Zul 300.000, 1/3nya dimasukkan di tabungan",False,200000
+Mie & Minuman,2023-10-04,['Makan'],,True,10000
+Uang dari Bapak,2023-10-06,['Hadiah'],"Uang sisanya bapak, besok mau balik. Dia tinggal sisa uang ongkir saja.",False,400000
+Iuran Perumahan,2023-10-07,['Iuran'],,True,50000
+Beli Bensin,2023-10-05,['Kuliah'],,True,10000
+Big Saving,2023-10-09,['Tabungan'],Uang 400 dari bapak kumasukkan 100 di saving dan 300nya ke big saving,True,300000
+Pimjam dulu 100,2023-10-09,['Pinjam'],"Dipinjam Tullah, besok katanya dikembalikan",True,100000
+Telur & tusuk telinga,2023-10-09,['Belanja'],"Telur 55.000, tusuk telinga 4.500",True,59500
+Bensin,2023-10-10,['Kuliah'],,True,20000
+Print Jurnal,2023-10-10,['Kuliah'],Print 3 jurnal,True,19000
+Jajan,2023-10-10,['Kuliah'],Beli pilus dan air mineral,True,3000
+Ckck makan,2023-10-11,['Makan'],Uang ckck makan malam di rumahnya Ari,True,20000
+Utang,2023-10-12,['Pinjam'],Tulla lunasi utang,False,100000
+Tambal Ban,2023-10-13,['Belanja'],,True,15000
+Nasi Kuning & Donat,2023-10-13,['Makan'],"Nasi kuning 2, Donat 5",True,15000
+Bensin,2023-10-13,['Kuliah'],,True,20000
+Jajan,2023-10-13,"['Jajan', 'Kuliah']","Popice 5000, bembeng 2500, kopicup 1000, relaxa 500",True,9000
+Beli Mie,2023-10-13,['Makan'],,True,10000
+Ayam krispi,2023-10-14,"['Kuliah', 'Makan']",Makan siang di kampus habis workshop,True,10000
+Makan Siang,2023-10-16,"['Kuliah', 'Makan']",,True,10000
+Jajan,2023-10-16,['Jajan'],Jajan Maizon,True,5000
+Jajan,2023-10-17,['Jajan'],,True,11000
+Makan Siang,2023-10-18,"['Kuliah', 'Makan']",,True,10000
+Jajan,2023-10-18,['Jajan'],Beli marimas sama biskuit,True,10000
+Bensin,2023-10-18,['Kuliah'],,True,20000
+Kebutuhan Makan Harian,2023-10-19,['Makan'],"Telur 55k
+Roti, selai, dan jagung bakar 41k",True,96000
+Jajan,2023-10-20,['Jajan'],,True,4000
+Pulsa,2023-10-22,['Kuliah'],,True,32000
+Tinta Print Hitam,2023-10-22,['Kuliah'],,True,40000
+Bensin,2023-10-22,"['Belanja', 'Kuliah']",,True,20000
+Kebutuhan,2023-10-22,"['Belanja', 'Makan']","Terigu 10.100, Mie sedap soto 5.600, Kopi 10.800, Mi sedap goreng 5.800, Bumbu nasgor 6.800, Mie sedap ayam 5.800, scotch Brite 6.800, Oreo 6.900, Sabun 19.200, Pasta gigi 8.600, Sampo 10.100",True,96000
+Tinta Print Berwarna,2023-10-23,['Kuliah'],,True,40000
+Jajan,2023-10-23,"['Jajan', 'Kuliah']",,True,5000
+Makan Siang,2023-10-25,"['Kuliah', 'Makan']",,True,10000
+Print tugas,2023-10-25,['Kuliah'],,True,1500
+Jajan,2023-10-25,"['Jajan', 'Kuliah']",,True,7000
+Jajan,2023-10-26,"['Jajan', 'Kuliah']",,True,10000
+Makan siang,2023-10-26,"['Kuliah', 'Makan']",,True,10000
+Bensin,2023-10-26,['Kuliah'],,True,20000
+Galon,2023-10-26,['Makan'],,True,5000
+Jajan,2023-10-27,"['Jajan', 'Kuliah']",,True,7000
+Makan siang,2023-10-30,"['Kuliah', 'Makan']",,True,10000
+Bensin,2023-10-30,['Kuliah'],,True,10000
+Kiriman Ortu,2023-10-30,['Gajian'],,False,400000
+Makan siang,2023-11-01,"['Kuliah', 'Belanja']",,True,10000
+Bensin,2023-11-02,['Kuliah'],,True,10000
+Jajan,2023-11-02,"['Jajan', 'Kuliah']",,True,2000
+Flashdisk,2023-11-02,['Kuliah'],Kebutuhan praktikum,True,63000
+Bensin,2023-11-01,['Kuliah'],,True,10000
+Jajan,2023-11-01,"['Jajan', 'Kuliah']",,True,1000
+Mie & sosis,2023-11-02,['Makan'],,True,12000
+Bensin,2023-11-03,"['Belanja', 'Kuliah']",,True,10000
+Jajan,2023-11-03,"['Jajan', 'Kuliah']",,True,2000
+Galon & Jajan,2023-11-04,"['Belanja', 'Jajan', 'Makan']",,True,9000
+Makan Siang,2023-11-06,"['Kuliah', 'Makan']",,True,10000
+Jajan,2023-11-06,"['Jajan', 'Kuliah']",,True,10500
+Iuran Perumahan,2023-11-06,['Iuran'],,True,50000
+Makan Sore,2023-11-07,"['Kuliah', 'Makan']",,True,10000
+Makan Siang,2023-11-07,"['Kuliah', 'Makan']",,True,10000
+Jajan,2023-11-07,"['Jajan', 'Kuliah']",,True,10000
+Beli Kipas,2023-11-07,['Belanja'],Ceka-ceka sama Tulla,True,50000
+Bensin,2023-11-07,['Kuliah'],,True,10000
+Jajan,2023-11-08,"['Jajan', 'Kuliah']",,True,4000
+Kalkulator & Plaster,2023-11-08,"['Kuliah', 'Kuliah']",,True,66000
+Print Laporan,2023-11-08,['Kuliah'],,True,4000
+Jajan,2023-11-09,"['Jajan', 'Kuliah']",,True,4000
+Bensin,2023-11-09,['Kuliah'],,True,20000
+Jajan,2023-11-10,['Kuliah'],,True,7000
+Galon,2023-11-11,"['Belanja', 'Makan']",,True,5000
+Nutrisari,2023-11-11,"['Belanja', 'Makan']",,True,10000
+Makan Siang,2023-11-14,"['Kuliah', 'Makan']",,True,10000
+Uang dari Mama,2023-11-14,['Kuliah'],,False,100000
+Jajan,2023-11-14,"['Kuliah', 'Makan']",,True,10000
+Makan Sore,2023-11-14,"['Kuliah', 'Makan']",,True,20000
+Bensin,2023-11-15,['Kuliah'],,True,20000
+Dikasi Mamak,2023-11-24,['Hadiah'],,False,500000
+Makan siang,2023-11-25,"['Kuliah', 'Makan']",,True,15000
+BIg Saving,2023-11-26,['Tabungan'],"Uang 500 dari mamak, 300 masuk ke variable cost, 200nya ke big saving",True,200000
+Dikasi Kak Indah,2023-11-27,['Hadiah'],,False,200000
+Big Saving,2023-11-27,['Tabungan'],,True,200000
+Jajan,2023-11-27,"['Jajan', 'Kuliah']",,True,4000
+Bensin,2023-11-29,['Kuliah'],,True,20000
+Hadiah Lomba,2023-11-30,"['Hadiah', 'Kuliah']",Hadiah lomba UI/UX Aifest,False,100000
+Obat,2023-12-02,['Belanja'],,True,16000
+Bensin,2023-12-02,['Belanja'],,True,20000
+Big Saving,2023-12-02,"['Belanja', 'Tabungan']",Tabung hadiah lomba UI/UX Aifest ,True,100000
+Gorengan,2023-12-03,"['Belanja', 'Makan']",,True,10000
+Jajan,2023-12-03,"['Jajan', 'Kuliah']",,True,3000
+Gorengan,2023-12-04,"['Belanja', 'Makan']",,True,10000
+Jajan,2023-12-04,"['Jajan', 'Kuliah']",,True,5000
+Makan Siang,2023-12-05,"['Kuliah', 'Makan']",,True,10000
+Jajan,2023-12-05,"['Jajan', 'Kuliah']",,True,10000
+Jajan,2023-12-06,"['Jajan', 'Kuliah']",,True,4000
+Makan Siang,2023-12-06,"['Kuliah', 'Makan']",,True,11000
+Iuran Perumahan,2023-12-06,['Iuran'],,True,50000
+Bensin,2023-12-07,['Kuliah'],,True,10000
+Jajan,2023-12-07,"['Jajan', 'Kuliah']",,True,5000
+Jajan,2023-12-08,"['Jajan', 'Kuliah']",,True,7000
+Makan Siang,2023-12-08,"['Kuliah', 'Makan']",,True,10000
+Bensin,2023-12-09,['Belanja'],,True,20000
+Masker,2023-12-09,['Belanja'],,True,6000
+Selotip,2023-12-09,['Belanja'],,True,14000
+Bensin,2023-12-11,"['Belanja', 'Kuliah']",,True,10000
+Jilid laporan,2023-12-11,['Kuliah'],,True,14000
+Jajan,2023-12-11,"['Jajan', 'Kuliah']",,True,14000
+Makan siang,2023-12-11,"['Kuliah', 'Makan']",,True,10000
+Bensin,2023-12-12,"['Belanja', 'Kuliah']",,True,20000
+Makan siang,2023-12-12,"['Kuliah', 'Makan']",,True,11000
+Gorengan,2023-12-12,['Jajan'],,True,10000
+Tarik uang,2023-12-13,['Belanja'],,False,1000000
+Beli galdan,2023-12-12,['Kuliah'],,True,10000
+Uang di dapat di jalan,2023-12-13,['Belanja'],"Uang di dapat di jalan sudah dari bulan 9 kayanya. Di dapat 55.000, tapi ku ambil cuma 5.000",False,5000
+Jajan,2023-12-14,"['Jajan', 'Kuliah']",,True,5000
+Jilid laporan lengkap,2023-12-14,['Kuliah'],,True,10000
+Perbaiki motor,2023-12-14,"['Belanja', 'Kuliah']",,True,50000
+Beli sari lauk,2023-12-14,['Makan'],,True,18000
+Kompa ban,2023-12-15,"['Belanja', 'Kuliah']",,True,2000
+Bensin,2023-12-15,['Kuliah'],,True,20000
+Makan pagi,2023-12-15,"['Kuliah', 'Makan']",,True,10000
+Jajan,2023-12-15,"['Kuliah', 'Makan']",,True,10000
+Ckck beli jagung,2023-12-15,['Makan'],,True,10000
+Nasi Kuning,2023-12-16,['Makan'],,True,10000
+Beli cemilan,2023-12-17,"['Jajan', 'Makan']",,True,32000
+Bei tempe,2023-12-17,['Makan'],,True,10000
+Jajan,2023-12-18,"['Jajan', 'Kuliah']",,True,2000
+Bensin,2023-12-19,['Kuliah'],,True,20000
+Beli telur,2023-12-19,['Makan'],,True,43000
+Bayar iuran,2023-12-20,['Iuran'],Bayar iuran INR untuk 3 bulan,True,45000
+Jajan,2023-12-21,"['Jajan', 'Kuliah']",,True,20000
+Makan pagi,2023-12-22,"['Kuliah', 'Makan']",,True,10000
+Jajan,2023-12-22,"['Jajan', 'Kuliah']",,True,8000
+Galon,2023-12-22,"['Belanja', 'Makan']",,True,5000
+Biskuit,2023-12-22,['Jajan'],,True,4000
+Pop Ice,2023-12-22,"['Jajan', 'Kuliah']",,True,5000
+Gorengan,2023-12-23,"['Jajan', 'Makan']",,True,10000
+Bensin,2023-12-28,['Kuliah'],,True,20000
+Jajan,2023-12-28,['Jajan'],,True,7000
+Biskui Mie,2023-12-28,"['Jajan', 'Makan']",,True,35000
+Jajan,2023-12-29,['Jajan'],,True,3000
+Sumbangan Panti,2023-12-31,['Belanja'],,True,5000
+Batok Cas,2024-01-01,['Belanja'],,True,25000
+Sari Lauk,2024-01-01,['Makan'],,True,20000
+Makan Siang,2024-01-02,"['Kuliah', 'Makan']",,True,13000
+Jajan,2024-01-02,"['Jajan', 'Kuliah']",,True,5000
+Jajan Pagi,2024-01-04,"['Jajan', 'Kuliah', 'Makan']",Penjanggal Perut,True,10000
+Makan siang,2024-01-03,['Kuliah'],,True,10000
+Bensin,2024-01-03,['Kuliah'],,True,20000
+Jajan,2024-01-03,"['Jajan', 'Kuliah']",,True,50000
+Galon,2024-01-03,['Belanja'],,True,5000
+Jajan,2024-01-03,['Jajan'],,True,5000
+Jajan,2024-01-04,"['Jajan', 'Kuliah']",,True,50000
+"Mie, biskuit dan makanan ringan",2024-01-05,"['Jajan', 'Makan']",,True,45000
+Parkir Mall,2024-01-06,['Belanja'],,True,4000
+Tarif Jolo’ joloro,2024-01-06,['Belanja'],,True,4000
+Iuran Perumahan,2024-01-07,['Iuran'],,True,50000
+Mie dan Biskuit,2024-01-07,"['Jajan', 'Makan']",,True,32000
+Gorengan,2024-01-07,"['Jajan', 'Makan']",,True,10000
+Makan siang,2024-01-09,"['Kuliah', 'Makan']",,True,10000
+Big saving,2024-01-10,['Tabungan'],,True,100000
+Bensin,2024-01-10,['Kuliah'],,True,20000
+Makan siang,2024-01-10,"['Kuliah', 'Makan']",,True,10000
+Jajan,2024-01-10,"['Jajan', 'Kuliah']",,True,5000
+"Minyak, mie, dan Biskuit",2024-01-10,"['Belanja', 'Jajan', 'Makan']",,True,36000
+Tarik uang,2024-01-10,['Belanja'],,False,500000
+Tempe,2024-01-10,"['Belanja', 'Makan']",,True,10000
+Jajan,2024-01-11,"['Jajan', 'Kuliah']",,True,5000
+Galon dan sosis,2024-01-12,"['Belanja', 'Makan']",,True,10000
+Bayar Paket COD,2024-01-13,['Kuliah'],Pesanan komponen elektronik,True,184000
+"Mie, makanan ringan, masako & kecap",2024-01-13,"['Jajan', 'Makan']",,True,60000
+Gorengan,2024-01-15,['Jajan'],,True,10000
+Bensin,2024-01-16,"['Belanja', 'Kuliah']",,True,20000
+Penjanggal Perut,2024-01-16,"['Kuliah', 'Makan']",,True,11000
+Makan Siang,2024-01-16,"['Kuliah', 'Makan']",,True,12000
+Mie dan sosis,2024-01-16,['Makan'],,True,14000
+"Mie, Biskuit, Bumbu nasgor",2024-01-18,['Makan'],,True,66000
+Tarik uang,2024-01-19,['Belanja'],,False,400000
+Minuman & telur,2024-01-19,['Makan'],,True,10000
+Ongkos travel ke selayar,2024-01-20,['Belanja'],,True,150000
+Dikasi uang bensin sama mamak,2024-01-29,['Belanja'],,False,70000
+Bensin,2024-01-29,['Belanja'],,True,40000
+"Jajan kerupuk, minuman, dan catguri",2024-01-29,['Belanja'],,True,72000
+Uang saku,2024-02-01,['Belanja'],Untuk berangkat ke makassar,False,500000
+Makan ayam,2024-02-01,['Belanja'],Dalam perjalanan ke makassar,True,37000
+Travel,2024-02-01,['Belanja'],,True,150000
+Kompa ban,2024-02-02,['Kuliah'],,True,2000
+Beli mie,2024-02-03,"['Belanja', 'Makan']",,True,32000
+Beli telur,2024-02-03,['Makan'],,True,50000
+Beli oli,2024-02-04,['Belanja'],,True,50000
+Suru cek kenalpot motor,2024-02-04,['Belanja'],,True,10000
+Bensin,2024-02-05,['Kuliah'],,True,20000
+Nyebrang,2024-02-05,['Kuliah'],,True,2000
+Nyebrang,2024-02-06,['Kuliah'],,True,2000
+Makan siang,2024-02-06,"['Kuliah', 'Makan']",,True,16000
+Nyebrang,2024-02-06,['Kuliah'],,True,2000
+Bensin,2024-02-07,['Kuliah'],,True,20000
+Nyebrang,2024-02-07,['Kuliah'],,True,2000
+Nasi Kuning,2024-02-07,"['Kuliah', 'Makan']",,True,10000
+Nyebrang,2024-02-07,['Kuliah'],,True,2000
+Air gelas,2024-02-07,"['Kuliah', 'Makan']",,True,2000
+Iuran Perumaha,2024-02-08,['Iuran'],,True,50000
+Tarik Uang Kiriman Bapak,2024-02-09,['Belanja'],,False,1000000
+Mie dan bubur instan,2024-02-09,['Makan'],,True,25000
+Tempe,2024-02-09,['Makan'],,True,10000
+Gorengan,2024-02-10,['Makan'],,True,10000
+Galon,2024-02-10,['Makan'],,True,5000
+Headset,2024-02-11,['Kuliah'],,True,60000
+Nyebrang,2024-02-11,['Belanja'],,True,2000
+"Garnier, Kopi, dan Biskuit",2024-02-11,['Makan'],,True,68000
+Parkir,2024-02-11,['Belanja'],,True,3000
+Nyebrang,2024-02-11,['Belanja'],,True,2000
+Nyebrang,2024-02-12,['Kuliah'],,True,2000
+Air Gelas,2024-02-12,['Makan'],,True,2000
+C1000 dan roti,2024-02-12,['Makan'],Singgah di Alfamart Sungguminasa akibat macet + hujan,True,18500
+Bensin,2024-02-12,['Makan'],,True,20000
+Roti,2024-02-12,['Makan'],,True,10000
+Air,2024-02-13,['Makan'],,True,2000
+Nyebrang,2024-02-13,['Belanja'],,True,2000
+"Mie, biskuit, bubur instan",2024-02-14,['Makan'],,True,36000
+Nyebrang,2024-02-15,['Kuliah'],,True,2000
+Materai 10000 ,2024-02-15,['Kuliah'],Sa beli 3 untuk berkas ppl,True,36000
+Jajan,2024-02-15,"['Jajan', 'Kuliah']",,True,5000
+Bensin,2024-02-15,['Kuliah'],,True,20000
+Minuman dan roti,2024-02-15,['Makan'],,True,16000
+Bakso,2024-02-15,['Makan'],,True,10000
+"Bubur instan, sabun, keripik, dan nutrisari",2024-02-16,['Makan'],"Sabun 4x, Bubur instan 4x, keripik 1x, Nutrisari 2x",True,58000
+Nyebrang,2024-02-16,['Belanja'],,True,2000
+Galon,2024-02-17,['Makan'],,True,10000
+Nyebrang,2024-02-18,['Belanja'],,True,4000
+Beli kue,2024-02-18,['Makan'],,True,15000
+Beli Mie,2024-02-18,['Makan'],,True,10000
+Nyebrang,2024-02-19,['Kuliah'],,True,2000
+Nyebrang,2024-02-19,['Kuliah'],,True,10000
+Nyebrang,2024-02-20,['Kuliah'],,True,2000
+Jajan,2024-02-20,"['Jajan', 'Kuliah']","10k minuman
+16k roti
+14k kurma",True,40000
+Bensin,2024-02-21,['Kuliah'],,True,20000
+Nyebrang,2024-02-21,['Kuliah'],,True,2000
+"Beli mie, kopi, dan sikat kawat",2024-02-21,['Makan'],,True,36000
+Nyebrang,2024-02-21,['Kuliah'],,True,2000
+Nyebrang,2024-02-22,['Kuliah'],,True,2000
+Cemilan,2024-02-22,['Makan'],,True,10000
+Nyebrang,2024-02-22,"['Kuliah', 'Makan']",,True,2000
+Galon,2024-02-22,['Makan'],,True,5000
+Nyebrang,2024-02-22,['Kuliah'],,True,2000
+Nyebrang,2024-02-22,['Kuliah'],,True,2000
+Nyebrang,2024-02-26,['Kuliah'],,True,2000
+Nyebrang,2024-02-27,['Kuliah'],,True,2000
+Bensin,2024-02-27,['Kuliah'],,True,20000
+Mie & Kopi,2024-02-28,['Makan'],,True,41000
+Nyebrang,2024-02-28,['Kuliah'],,True,2000
+Nyebrang,2024-02-28,['Kuliah'],,True,2000
+Nyebrang,2024-02-29,['Kuliah'],,True,2000
+Nyebrang,2024-02-29,['Kuliah'],,True,2000
+Beli Mie,2024-02-29,['Makan'],,True,46000
+Bensin,2024-03-01,['Kuliah'],,True,20000
+Uang dari bapak,2024-03-02,['Hadiah'],,False,300000
+Nasi goreng,2024-03-02,['Makan'],,True,12000
+Bensin,2024-03-03,['Kuliah'],,True,20000
+Ganti busi,2024-03-03,['Kuliah'],,True,30000
+Maizon,2024-03-03,['Makan'],,True,12000
+Nasi goreng,2024-03-03,['Makan'],,True,12000
+Sup,2024-03-03,['Makan'],,True,16000
+Roti dan Maizon,2024-03-04,['Makan'],,True,15000
+Bensin,2024-03-04,['Kuliah'],,True,20000
+Gorengan,2024-03-05,['Makan'],,True,10000
+Mie dan biskuit,2024-03-06,['Makan'],,True,36000
+Tempe,2024-03-06,['Makan'],,True,10000
+Iuran perumahan,2024-03-06,['Iuran'],,True,50000
+Bensin,2024-03-07,['Kuliah'],,True,20000
+Nasi kuning,2024-03-07,['Makan'],,True,10000
+Tarik uang kiriman,2024-03-07,['Gajian'],,False,1000000
+Big Saving,2024-03-07,['Tabungan'],Uang saving cost bulan lalu,True,400000
+Jajan,2024-03-07,['Makan'],,True,10000
+Makan pagi,2024-03-08,['Makan'],,True,7000
+Balon motor,2024-03-08,['Belanja'],,True,25000
+Balon motor lagi,2024-03-08,['Belanja'],,True,15000
+Mie dan biskuit,2024-03-09,['Makan'],,True,35000
+Sari lauk,2024-03-09,['Makan'],,True,18000
+Es Teler,2024-03-11,['Makan'],Beli 2 gelas,True,20000
+Minyak goreng dan tissu,2024-03-12,['Belanja'],,True,36000
+Tempe,2024-03-12,['Makan'],,True,10000
+Galon,2024-03-12,['Makan'],,True,5000
+Bensin,2024-03-13,['Belanja'],,True,20000
+Nyebrang,2024-03-13,['Belanja'],,True,2000
+Nyebrang,2024-03-13,['Belanja'],,True,2000
+Kirim paket kerudung,2024-03-13,['Belanja'],,True,25000
+Ayam Sari Lauk,2024-03-13,['Makan'],,True,18000
+Beras,2024-03-15,['Makan'],,True,60000
+Es Buah,2024-03-15,['Makan'],,True,10000
+Jalangkote,2024-03-15,['Makan'],,True,10000
+Mie,2024-03-16,['Makan'],,True,23000
+Bensin,2024-03-19,['Makan'],,True,20000
+Es Buah,2024-03-20,['Makan'],,True,10000
+Donat,2024-03-21,['Makan'],,True,10000
+Bensin,2024-03-23,['Kuliah'],,True,20000
+Uang saku VSGA,2024-03-23,"['Hadiah', 'Kuliah']",,False,360000
+Novel,2024-03-23,['Kuliah'],,True,109000
+Parkir,2024-03-23,['Belanja'],,True,5000
+Nyebrang,2024-03-23,['Belanja'],,True,2000
+Mie dan Popice Saset,2024-03-23,['Makan'],,True,39500
+Big Saving,2024-03-23,['Tabungan'],,True,200000
+Ayam sari lauk,2024-03-26,['Makan'],,True,36000
+Mie dan biskuit,2024-03-27,['Makan'],,True,37000
+Es buah,2024-03-29,['Makan'],,True,10000
+Bensin,2024-04-02,['Kuliah'],,True,20000
+Bensin,2024-03-31,['Kuliah'],,True,10000
+Kabel data Type C,2024-04-02,"['Kuliah', 'Kuliah']",,True,28000
+Parkir,2024-04-02,"['Belanja', 'Kuliah']",,True,3000
+Galon,2024-04-02,['Makan'],,True,5000
+Jalkot dan donat,2024-04-02,['Makan'],,True,10000
+Kacang-kacangan,2024-04-03,['Makan'],,True,37000
+Sari Lauk,2024-04-03,['Makan'],,True,36000
+Uang dari Kak Indah,2024-04-13,['Hadiah'],,False,50000
+Uang dari Mamak,2024-04-19,['Hadiah'],,False,35000
+Tukar uang dari Tulla,2024-04-20,['Gajian'],"Tulla minta di transfer 200k, baru sa ambil uang 200k di dompetnya.",False,200000
+Bayar Iuran,2024-04-20,['Iuran'],,True,50000
+Dikasi uang sama Kak Zul,2024-04-20,['Hadiah'],,False,50000
+Kompa ban,2024-04-21,['Belanja'],,True,2000
+Beli anti gores hp,2024-04-21,['Belanja'],,True,15000
+Bayar parkir,2024-04-21,['Belanja'],,True,3000
+Bensin,2024-04-22,['Kuliah'],,True,20000
+Print jurnal,2024-04-22,['Kuliah'],,True,4000
+Jajan,2024-04-22,"['Kuliah', 'Makan']",,True,4000
+Nasi Kuning,2024-04-22,"['Kuliah', 'Makan']",,True,10000
+Kertas HVS A4 satu ring,2024-04-22,['Kuliah'],,True,54000
+Makan siang,2024-04-23,"['Kuliah', 'Makan']",,True,12000
+Jajan,2024-04-23,['Makan'],,True,10000
+Nyebrang,2024-04-23,['Belanja'],,True,4000
+Beli mie,2024-04-23,['Makan'],,True,27000
+Bensin,2024-04-25,['Kuliah'],,True,20000
+Jajan Kopikap,2024-04-25,['Makan'],,True,6000
+Nasi Kuning,2024-04-25,['Makan'],,True,12000
+Cukur Rambut,2024-04-25,['Belanja'],,True,20000
+Kopi Kenangan,2024-04-26,['Makan'],,True,23000
+Paket COD,2024-04-27,['Belanja'],,True,70000
+"Mie, Super Bubur, dan Sosis",2024-04-27,['Makan'],,True,42000
+Tempe,2024-04-27,['Makan'],,True,10000
+Kopi expreso,2024-04-28,['Makan'],,True,22000
+Bensin,2024-04-28,['Belanja'],,True,20000
+Jajan,2024-04-30,['Makan'],,True,5000
+Jajan,2024-05-02,"['Kuliah', 'Makan']",,True,10000
+Makan siang,2024-05-02,"['Kuliah', 'Makan']",,True,12000
+Nasi Kuning,2024-05-03,"['Kuliah', 'Makan']",,True,12000
+Jajan,2024-05-03,"['Kuliah', 'Makan']",,True,5000
+Bensin,2024-05-03,['Kuliah'],,True,15000
+Tarik Uang Kiriman Bapak,2024-05-03,['Gajian'],,False,700000
+Nyebrang,2024-05-03,['Belanja'],,True,2000
+Sepatu untuk lari,2024-05-03,['Kuliah'],,True,171000
+Nyebrang,2024-05-05,['Belanja'],,True,5000
+Bensin,2024-05-05,['Belanja'],Pas pigi ambil kiriman di Maccini,True,20000
+Beli Kacang,2024-05-05,"['Belanja', 'Jajan']",,True,10000
+Maizon,2024-05-06,['Jajan'],,True,7000
+Bayar Iuran Perumahan,2024-05-07,['Iuran'],,True,50000
+Jajan,2024-05-08,['Jajan'],,True,5000
+Es Teh,2024-05-08,['Makan'],Di kafe Warkop DM,True,15000
+Nasi Goreng,2024-05-08,['Makan'],Di pertigaan mesjid dekat rumahnya Ari,True,16000
+Masuk Pantai Tanjung Bayam,2024-05-09,['Belanja'],,True,5000
+Air Mineral,2024-05-09,['Makan'],,True,5000
+Bensin,2024-05-09,['Belanja'],,True,20000
+Teh Susu,2024-05-10,['Makan'],Pigi diskusi di kafe sama Pak Syafar,True,10000
+Lampu depan motor,2024-05-10,['Makan'],,True,10000
+Nasi Kuning,2024-05-12,['Makan'],,True,10000
+Donat,2024-05-12,['Makan'],,True,5000
+Mie,2024-05-12,['Makan'],,True,21000
+Nasi Goreng,2024-05-14,['Makan'],,True,10000
+Donat,2024-05-14,"['Jajan', 'Makan']",,True,10000
+Ayam Krispi,2024-05-15,['Makan'],,True,14000
+Bensin,2024-05-16,['Kuliah'],,True,20000
+Jajan,2024-05-16,"['Jajan', 'Kuliah']",,True,5000
+Nasi Kuning,2024-05-17,['Makan'],,True,12000
+Jajan,2024-05-17,"['Jajan', 'Kuliah']",,True,6000
+Makan,2024-05-19,['Makan'],,True,10000
+Bensin,2024-05-20,"['Belanja', 'Kuliah']",,True,20000
+Makan,2024-05-20,['Makan'],,True,12000
+Sewa lapangan,2024-05-20,['Belanja'],,True,12000
+Bersihkan Kabulator,2024-05-20,['Belanja'],,True,37000
+Nasi Kuning,2024-05-21,['Makan'],,True,12000
+Jajan,2024-05-21,"['Jajan', 'Makan']",,True,4000
+Nasi kuning,2024-05-22,"['Kuliah', 'Makan']",,True,12000
+Jajan,2024-05-22,['Jajan'],,True,4000
+Tarik uang kiriman Bapak,2024-05-22,['Gajian'],,False,500000
+Beli oli,2024-05-22,['Belanja'],,True,50000
+Beli balon motor,2024-05-22,['Belanja'],,True,10000
+Gorengan,2024-05-22,"['Jajan', 'Makan']",,True,10000
+Bensin,2024-05-23,['Belanja'],Pas pigi ke Barru dengan anak2 INR,True,30000
+Minuman Thaites,2024-05-23,"['Jajan', 'Makan']",Pas pigi ke Barru dengan anak2 INR,True,18000
+Biskuit Tango,2024-05-23,"['Jajan', 'Makan']",Pas pigi ke Barru dengan anak2 INR,True,9000
+Bensin,2024-05-24,['Belanja'],Pas pigi ke Barru dengan anak2 INR,True,20000
+Minuman,2024-05-24,['Makan'],Pas pigi ke Barru dengan anak2 INR,True,8000
+Kaos Kaki,2024-05-24,['Belanja'],Pas pigi ke Barru dengan anak2 INR,True,15000
+Air minum,2024-05-24,['Makan'],Pas pigi ke Barru dengan anak2 INR,True,2000
+Ckck Tiram,2024-05-24,['Makan'],Pas pigi ke Barru dengan anak2 INR,True,14000
+Masker,2024-05-24,['Belanja'],Pas pigi ke Barru dengan anak2 INR,True,5000
+Nasi kuning,2024-05-25,['Makan'],,True,10000
+Zaim pinjam uang,2024-05-26,['Pinjam'],,True,20000
+Gado-gado,2024-05-26,['Makan'],,True,13000
+Es Teh Manis di Warko DS,2024-05-26,['Makan'],,True,15000
+Kompa ban,2024-05-27,"['Belanja', 'Kuliah']",,True,3000
+Tempa,2024-05-27,['Makan'],,True,10000
+Makan siang,2024-05-27,['Makan'],,True,10000
+Jajan,2024-05-27,['Jajan'],,True,2000
+Jalang Kotek,2024-05-27,['Makan'],,True,4000
+Kopi dan Marimas,2024-05-27,['Makan'],,True,5000
+Masuk musium,2024-05-28,['Kuliah'],,True,10000
+Jajan,2024-05-28,"['Jajan', 'Makan']",,True,4000
+Bensin,2024-05-28,['Kuliah'],,True,20000
+Jajan,2024-05-29,['Jajan'],,True,8000
+Bensin,2024-05-29,['Kuliah'],,True,20000
+Beli Galdan,2024-05-29,['Makan'],Beli galdannya angkatan 23 untuk kegiatan Reformatika.,True,10000
+Bakso,2024-05-30,['Makan'],,True,10000
+Bensin,2024-05-31,['Kuliah'],,True,20000
+"Rinso, mie dan biskuit",2024-05-31,"['Belanja', 'Makan']",,True,28000
+Tempe,2024-05-31,['Makan'],,True,10000
+Foto studio,2024-06-02,['Belanja'],,True,15000
+Makan siang,2024-06-02,['Makan'],,True,10000
+Bayar iuran,2024-06-02,['Iuran'],,True,30000
+Kopi Meelo,2024-06-02,['Makan'],,True,5000
+Gorengan,2024-06-02,['Makan'],,True,7000
+Tarik uang,2024-06-03,['Gajian'],Cuma 800 yang diambil biar sisa uangnya untuk pembeli pulsa.,False,800000
+Belanja kebutuhan rumah,2024-06-04,"['Belanja', 'Makan']","Mie, 6 x 3k
+Sabun isi 3, 1 x 21k
+Kopi 2paket, 1 x 16k
+Keripik Basreng, 2 x 12k
+Bumbu nasgor, 5 x 2k
+Sapo, 1 x 5k
+Pewangi pakaian, 1 x 2.5k
+Parfum, 1 x 16k
+MAsker, 1 x 6k",True,118000
+Nyebrang,2024-06-04,['Belanja'],,True,4000
+Jajan,2024-06-04,['Makan'],,True,3000
+Bensin,2024-06-04,['Kuliah'],,True,20000
+Tempe,2024-06-04,['Makan'],,True,10000
+Telur,2024-06-04,['Makan'],,True,53000
+Jajan,2024-06-05,['Jajan'],,True,4000
+Beli air gelas,2024-06-07,['Makan'],,True,2000
+Nasi Kuning,2024-06-07,['Makan'],,True,12000
+Beras,2024-06-07,['Hadiah'],,True,73000
+Tali skipping,2024-06-06,['Kuliah'],,True,33000
+Jajan,2024-06-07,['Jajan'],,True,3000
+Bensin,2024-06-09,['Belanja'],,True,20000
+Baterai 3.7v,2024-06-09,['Kuliah'],,True,18000
+Jajan,2024-06-11,['Jajan'],,True,6000
+"Mie, biskuit, dan Tisu",2024-06-11,['Makan'],,True,34000
+Tempe,2024-06-11,['Makan'],,True,10000
+Keperluan rumah & Pesanan Bapak,2024-06-14,"['Belanja', 'Jajan', 'Makan']","Mie, Makanan ringan, kopi, indomilk,  fitting lampu, dan pengikat kran.",True,120000
+Bensin,2024-06-14,"['Belanja', 'Kuliah']",,True,20000
+Nasi Kuning,2024-06-14,['Makan'],,True,12000
+Jajan,2024-06-14,['Jajan'],,True,3000
+Nyebrang,2024-06-14,['Belanja'],,True,2000
+Berak,2024-06-16,['Belanja'],Pas balik ke selayar,True,5000
+Pop mie dan buras,2024-06-16,['Makan'],Pas balik ke selayar,True,15000
+Bensin,2024-06-18,['Belanja'],,True,20000
+Dikasi pembeli bensin sama Ortu Feni,2024-06-18,['Hadiah'],Ini pas antar kirimannya Feni ke rumahnya di Tile-tile,False,30000
+Bensi,2024-06-18,['Belanja'],,True,20000
+Sirup dan minuman,2024-06-18,['Belanja'],,True,25000
+Kacang Almon,2024-06-18,['Makan'],,True,12000
+Dikasi uang sama Mama,2024-06-19,['Hadiah'],,False,500000
+Makan,2024-06-19,['Makan'],,True,30000
+Ongkos travel,2024-06-19,['Belanja'],,True,150000
+Jajan,2024-06-20,['Jajan'],,True,5000
+Ganti balon motor,2024-06-20,['Belanja'],,True,25000
+Pop ice,2024-06-20,['Makan'],,True,5000
+Bayang uang Sekret,2024-06-20,['Makan'],,True,50000
+Ayam Krispi,2024-06-20,['Makan'],,True,12000
+Bensin,2024-06-21,['Belanja'],,True,20000
+Nyebrang,2024-06-21,['Belanja'],,True,2000
+Pembeli Rokok Tukag Service Motor,2024-06-21,['Belanja'],Pembeli rokok untuk yang kerja motor. Dia minta,True,15000
+Beli galon,2024-06-21,['Belanja'],,True,5000
+Bensin,2024-06-25,['Kuliah'],,True,20000
+Makan Malam,2024-06-25,['Makan'],,True,14000
+Jajan,2024-06-26,['Jajan'],,True,4000
+Mie dan Minyak,2024-06-26,['Makan'],,True,38000
+Kertas HVS A4 Satu Ring,2024-06-26,['Kuliah'],,True,58000
+Mie,2024-06-29,['Makan'],,True,8000
+Nasi Kuning,2024-07-01,['Makan'],,True,10000
+Bensin,2024-07-01,['Kuliah'],,True,20000
+Jajan,2024-07-01,['Jajan'],Jajan di kampus dan alfamart,True,28000
+Nyebrang,2024-07-01,['Belanja'],,True,2000
+Paket Buku,2024-07-01,['Belanja'],,True,70000
+Totebag,2024-07-02,['Belanja'],,True,4000
+Jajan,2024-07-02,['Jajan'],,True,2000
+Nasi Kuning,2024-07-02,['Makan'],,True,12000
+Jajan,2024-07-02,['Jajan'],,True,3000
+Milo panas,2024-07-02,['Makan'],,True,10000
+Jajan,2024-07-03,['Jajan'],,True,4000
+Galon,2024-07-03,['Belanja'],,True,5000
+Jajan,2024-07-04,['Jajan'],,True,5000
+Bensi ,2024-07-04,['Kuliah'],,True,20000
+Masker,2024-07-04,['Belanja'],,True,12000
+Iuran perumahan,2024-07-06,['Iuran'],,True,50000
+Nasi Kuning,2024-07-08,['Makan'],,True,12000
+Gorengan Tahu Pedas,2024-07-07,"['Jajan', 'Makan']",,True,10000
+Jilid Laporan,2024-07-08,['Kuliah'],,True,8000
+Jajan,2024-07-09,['Jajan'],,True,2000
+Bensin,2024-07-09,['Kuliah'],,True,20000
+Mie dan kopi,2024-07-09,['Makan'],,True,30000
+Nasi Kuning,2024-07-10,['Makan'],,True,12000
+Gorengan,2024-07-10,"['Jajan', 'Makan']",,True,8000
+Jajan,2024-07-11,['Jajan'],,True,13000
+Mie dan kopi,2024-07-12,['Makan'],,True,30000
+Tarik uang,2024-07-14,['Gajian'],,False,400000
+Beli gorengan,2024-07-14,"['Jajan', 'Makan']",,True,15000
+"Mie, biskuit dan kopi",2024-07-14,['Makan'],,True,31000
+Jajan,2024-07-15,['Jajan'],,True,4000
